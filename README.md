@@ -58,8 +58,8 @@ pustakapersona/     # Persona implementations
 ## Installation
 
 ```bash
-git clone [your-repo-url]
-cd simpl-cli
+git clone https://github.com/diter89/Simpl-Cli-tester
+cd Simpl-Cli-tester
 pip install -r requirements.txt
 ```
 
