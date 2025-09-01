@@ -12,7 +12,6 @@
 ```bash
 pip install -r requirements.txt
 python3 app.py
-```
 export FIREWORKS_API_KEY="<apikey>"
 ```
 # examples
