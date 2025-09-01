@@ -80,7 +80,7 @@ def Banners(mode: str):
     panel = Panel(
         table, 
         border_style=custom_colorsUX()["panel_app"], 
-        title="[bold #FFFFFF]Dobby CLI[/bold #FFFFFF]",
+        title="[bold #FFFFFF]Simpl-CLI[/bold #FFFFFF]",
     )
     return panel
 
