@@ -44,7 +44,7 @@ def create_intelligent_summary(result_dict: dict, top_n_assets=15) -> dict:
 def create_analysis_prompt(summary_json: str, address: str) -> str:
 
     prompt = f"""
-You are an expert crypto portfolio analyst and professional trader. Your tone is sharp, insightful, and professional, delivered in Indonesian.
+You are an expert crypto portfolio analyst and professional trader. Your tone is sharp, insightful, and professional, delivered in English.
 You will be given an **intelligent summary** of a crypto wallet's holdings, highlighting only the most significant assets and chain presence.
 Your task is to analyze this summary and generate a concise, insightful report in Markdown format.
 
