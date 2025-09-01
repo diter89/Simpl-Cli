@@ -1,0 +1,7 @@
+beautifulsoup4==4.13.4
+requests==2.32.4
+inquirerpy==0.3.4
+prompt_toolkit==3.0.51
+rich==14.1.0
+chromadb==1.0.15
+Faker==37.4.2
