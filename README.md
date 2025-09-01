@@ -79,6 +79,7 @@ trafilatura==2.0.0
 ## Usage
 
 ```bash
+export FIREWORKS_API_KEY="<apikey>"
 python3 app.py
 ```
 
